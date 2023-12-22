@@ -1,0 +1,1 @@
+printf("%d %d", low, pos);
