@@ -1,1 +1,1 @@
-printf("%d %d", low, pos);
+  printf("%d %d",i,n);
