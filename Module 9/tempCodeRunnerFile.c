@@ -1,0 +1,1 @@
+       printf("%d %d", arr[i] , arr[j]);
